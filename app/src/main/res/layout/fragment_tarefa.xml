@@ -13,7 +13,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="24dp"
-        android:text="Luan13"
+        android:text="Luan13A"
         android:textColor="#100202"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
